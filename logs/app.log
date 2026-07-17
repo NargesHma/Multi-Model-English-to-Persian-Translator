@@ -1,0 +1,171 @@
+2026-07-17 16:34:38,586 | INFO | translation-platform | Loading MT5 model...
+2026-07-17 16:34:39,799 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/persiannlp/mt5-small-persianlu-translation_en_fa/resolve/main/tokenizer_config.json "HTTP/1.1 401 Unauthorized"
+2026-07-17 17:01:17,245 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-17 17:01:17,245 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2026-07-17 17:01:17,262 | INFO | werkzeug |  * Restarting with stat
+2026-07-17 17:01:26,789 | WARNING | werkzeug |  * Debugger is active!
+2026-07-17 17:01:26,794 | INFO | werkzeug |  * Debugger PIN: 115-207-918
+2026-07-17 17:01:37,629 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:01:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2026-07-17 17:01:38,006 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:01:38] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2026-07-17 17:01:38,128 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:01:38] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2026-07-17 17:01:38,203 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:01:38] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=LxZJxQARX6NAMGFHOXj7 HTTP/1.1" 200 -
+2026-07-17 17:01:38,221 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:01:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2026-07-17 17:07:38,556 | INFO | werkzeug |  * Detected change in 'C:\\Users\\narges.hajmollaali\\Documents\\multi-model-ai-translator\\app\\__init__.py', reloading
+2026-07-17 17:07:39,329 | INFO | werkzeug |  * Restarting with stat
+2026-07-17 17:07:54,195 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-17 17:07:54,195 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2026-07-17 17:07:54,204 | INFO | werkzeug |  * Restarting with stat
+2026-07-17 17:08:05,839 | WARNING | werkzeug |  * Debugger is active!
+2026-07-17 17:08:05,848 | INFO | werkzeug |  * Debugger PIN: 115-207-918
+2026-07-17 17:08:07,732 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:08:07] "GET / HTTP/1.1" 200 -
+2026-07-17 17:08:07,759 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:08:07] "[33mGET /static/plus.png HTTP/1.1[0m" 404 -
+2026-07-17 17:08:07,762 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:08:07] "[33mGET /static/play.png HTTP/1.1[0m" 404 -
+2026-07-17 17:08:07,767 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:08:07] "[33mGET /static/pause.png HTTP/1.1[0m" 404 -
+2026-07-17 17:08:07,769 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:08:07] "[33mGET /static/play-and-pause-button.png HTTP/1.1[0m" 404 -
+2026-07-17 17:08:07,772 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:08:07] "[33mGET /static/stop-button.png HTTP/1.1[0m" 404 -
+2026-07-17 17:08:07,781 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:08:07] "[33mGET /static/rahnema_college.png HTTP/1.1[0m" 404 -
+2026-07-17 17:08:07,810 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:08:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-07-17 17:09:03,049 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:09:03] "[33mPOST /upload_file HTTP/1.1[0m" 404 -
+2026-07-17 17:09:05,938 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:09:05] "[33mPOST /upload_file HTTP/1.1[0m" 404 -
+2026-07-17 17:09:11,465 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:09:11] "[33mPOST /upload_file HTTP/1.1[0m" 404 -
+2026-07-17 17:09:22,753 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:09:22] "[33mPOST /upload_file HTTP/1.1[0m" 404 -
+2026-07-17 17:11:52,178 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:11:52] "[33mPOST /upload_file HTTP/1.1[0m" 404 -
+2026-07-17 17:12:05,530 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:12:05] "[33mPOST /upload_file HTTP/1.1[0m" 404 -
+2026-07-17 17:16:17,602 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-17 17:16:17,602 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2026-07-17 17:16:17,607 | INFO | werkzeug |  * Restarting with stat
+2026-07-17 17:16:31,365 | WARNING | werkzeug |  * Debugger is active!
+2026-07-17 17:16:31,383 | INFO | werkzeug |  * Debugger PIN: 115-207-918
+2026-07-17 17:16:33,129 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:16:33] "GET / HTTP/1.1" 200 -
+2026-07-17 17:16:33,604 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:16:33] "GET /static/plus.png HTTP/1.1" 200 -
+2026-07-17 17:16:33,796 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:16:33] "GET /static/play.png HTTP/1.1" 200 -
+2026-07-17 17:16:33,818 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:16:33] "GET /static/pause.png HTTP/1.1" 200 -
+2026-07-17 17:16:33,932 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:16:33] "GET /static/play-and-pause-button.png HTTP/1.1" 200 -
+2026-07-17 17:16:34,070 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:16:34] "GET /static/rahnema_college.png HTTP/1.1" 200 -
+2026-07-17 17:16:34,080 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:16:34] "GET /static/stop-button.png HTTP/1.1" 200 -
+2026-07-17 17:16:44,862 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:16:44] "[33mPOST /upload_file HTTP/1.1[0m" 404 -
+2026-07-17 17:19:39,267 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:19:39] "[33mPOST /upload_file HTTP/1.1[0m" 404 -
+2026-07-17 17:31:27,719 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-17 17:31:27,719 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2026-07-17 17:31:27,728 | INFO | werkzeug |  * Restarting with stat
+2026-07-17 17:31:40,899 | WARNING | werkzeug |  * Debugger is active!
+2026-07-17 17:31:40,902 | INFO | werkzeug |  * Debugger PIN: 115-207-918
+2026-07-17 17:31:42,958 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:31:42] "GET / HTTP/1.1" 200 -
+2026-07-17 17:31:43,371 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:31:43] "[36mGET /static/plus.png HTTP/1.1[0m" 304 -
+2026-07-17 17:31:43,683 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:31:43] "[36mGET /static/pause.png HTTP/1.1[0m" 304 -
+2026-07-17 17:31:43,753 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:31:43] "[36mGET /static/play.png HTTP/1.1[0m" 304 -
+2026-07-17 17:31:43,779 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:31:43] "[36mGET /static/rahnema_college.png HTTP/1.1[0m" 304 -
+2026-07-17 17:31:43,909 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:31:43] "[36mGET /static/play-and-pause-button.png HTTP/1.1[0m" 304 -
+2026-07-17 17:31:43,922 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:31:43] "[36mGET /static/stop-button.png HTTP/1.1[0m" 304 -
+2026-07-17 17:32:02,011 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:32:02] "POST /upload_file HTTP/1.1" 200 -
+2026-07-17 17:32:02,028 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:32:02] "[33mGET /translate_line/llm HTTP/1.1[0m" 404 -
+2026-07-17 17:32:10,834 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:32:10] "POST /upload_file HTTP/1.1" 200 -
+2026-07-17 17:32:10,834 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:32:10] "[33mGET /translate_line/bart HTTP/1.1[0m" 404 -
+2026-07-17 17:32:16,348 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:32:16] "POST /upload_file HTTP/1.1" 200 -
+2026-07-17 17:32:16,352 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:32:16] "[33mGET /translate_line/bart HTTP/1.1[0m" 404 -
+2026-07-17 17:32:36,531 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:32:36] "POST /upload_file HTTP/1.1" 200 -
+2026-07-17 17:32:36,551 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:32:36] "[33mGET /translate_line/bart HTTP/1.1[0m" 404 -
+2026-07-17 17:35:12,119 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-17 17:35:12,119 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2026-07-17 17:35:12,123 | INFO | werkzeug |  * Restarting with stat
+2026-07-17 17:35:22,278 | WARNING | werkzeug |  * Debugger is active!
+2026-07-17 17:35:22,289 | INFO | werkzeug |  * Debugger PIN: 115-207-918
+2026-07-17 17:35:30,512 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:35:30] "GET / HTTP/1.1" 200 -
+2026-07-17 17:35:30,924 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:35:30] "[36mGET /static/plus.png HTTP/1.1[0m" 304 -
+2026-07-17 17:35:31,430 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:35:31] "[36mGET /static/rahnema_college.png HTTP/1.1[0m" 304 -
+2026-07-17 17:35:31,466 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:35:31] "[36mGET /static/play-and-pause-button.png HTTP/1.1[0m" 304 -
+2026-07-17 17:35:31,474 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:35:31] "[36mGET /static/play.png HTTP/1.1[0m" 304 -
+2026-07-17 17:35:31,516 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:35:31] "[36mGET /static/stop-button.png HTTP/1.1[0m" 304 -
+2026-07-17 17:35:31,519 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:35:31] "[36mGET /static/pause.png HTTP/1.1[0m" 304 -
+2026-07-17 17:35:40,301 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:35:40] "POST /upload_file HTTP/1.1" 200 -
+2026-07-17 17:35:45,111 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:35:45] "GET /translate_line/bart HTTP/1.1" 200 -
+2026-07-17 17:35:59,658 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:35:59] "POST /upload_file HTTP/1.1" 200 -
+2026-07-17 17:36:01,446 | ERROR | translation-platform | HTTP Error: 401 Client Error:  for url: https://api.metisai.ir/api/v1/chat/openai_chat_completion/completions
+2026-07-17 17:36:01,508 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:01] "GET /translate_line/llm HTTP/1.1" 200 -
+2026-07-17 17:36:16,240 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:16] "GET / HTTP/1.1" 200 -
+2026-07-17 17:36:16,264 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:16] "[36mGET /static/plus.png HTTP/1.1[0m" 304 -
+2026-07-17 17:36:16,272 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:16] "[36mGET /static/pause.png HTTP/1.1[0m" 304 -
+2026-07-17 17:36:16,273 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:16] "[36mGET /static/play.png HTTP/1.1[0m" 304 -
+2026-07-17 17:36:16,276 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:16] "[36mGET /static/play-and-pause-button.png HTTP/1.1[0m" 304 -
+2026-07-17 17:36:16,292 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:16] "[36mGET /static/rahnema_college.png HTTP/1.1[0m" 304 -
+2026-07-17 17:36:16,292 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:16] "[36mGET /static/stop-button.png HTTP/1.1[0m" 304 -
+2026-07-17 17:36:22,754 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:22] "POST /upload_file HTTP/1.1" 200 -
+2026-07-17 17:36:24,423 | ERROR | translation-platform | HTTP Error: 401 Client Error:  for url: https://api.metisai.ir/api/v1/chat/openai_chat_completion/completions
+2026-07-17 17:36:24,448 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:24] "GET /translate_line/llm HTTP/1.1" 200 -
+2026-07-17 17:36:34,249 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:34] "POST /translate_text/bart HTTP/1.1" 200 -
+2026-07-17 17:36:39,235 | ERROR | translation-platform | HTTP Error: 401 Client Error:  for url: https://api.metisai.ir/api/v1/chat/openai_chat_completion/completions
+2026-07-17 17:36:39,285 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 17:36:39] "[35m[1mPOST /translate_text/llm HTTP/1.1[0m" 500 -
+2026-07-17 19:47:25,197 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 19:47:25,434 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-17 19:47:25,697 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-17 19:47:26,004 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-07-17 19:47:26,259 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-07-17 19:47:26,499 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/sentencepiece.bpe.model "HTTP/1.1 302 Found"
+2026-07-17 19:47:26,866 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/xet-read-token/e30b6cb8eb0d43a0b73cab73c7676b9863223a30 "HTTP/1.1 200 OK"
+2026-07-17 19:47:31,600 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/tokenizer.json "HTTP/1.1 404 Not Found"
+2026-07-17 19:47:31,848 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+2026-07-17 19:47:32,073 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 19:47:32,308 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-07-17 19:47:32,572 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-07-17 19:47:32,821 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-07-17 19:48:19,580 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 19:48:19,698 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-17 19:48:19,952 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-07-17 19:48:20,169 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-07-17 19:49:03,122 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 19:49:03,294 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-17 19:49:03,568 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-07-17 19:49:03,907 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-07-17 19:50:00,095 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 19:50:00,230 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-17 19:50:00,481 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-07-17 19:50:00,723 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-07-17 19:52:17,085 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 19:52:17,240 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-17 19:52:17,486 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-07-17 19:52:17,732 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-07-17 19:52:19,784 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt "HTTP/1.1 200 OK"
+2026-07-17 19:52:20,050 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 19:52:20,295 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/config.json "HTTP/1.1 200 OK"
+2026-07-17 19:52:20,536 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/config.json "HTTP/1.1 200 OK"
+2026-07-17 19:52:20,821 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-07-17 19:52:21,088 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/xet-read-token/e30b6cb8eb0d43a0b73cab73c7676b9863223a30 "HTTP/1.1 200 OK"
+2026-07-17 20:09:22,362 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 20:09:22,615 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/generation_config.json "HTTP/1.1 200 OK"
+2026-07-17 20:09:22,868 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/generation_config.json "HTTP/1.1 200 OK"
+2026-07-17 20:09:23,457 | INFO | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-07-17 20:09:23,459 | INFO | werkzeug | [33mPress CTRL+C to quit[0m
+2026-07-17 20:09:23,488 | INFO | werkzeug |  * Restarting with stat
+2026-07-17 20:10:05,516 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 20:10:05,698 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-17 20:10:05,936 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-07-17 20:10:06,202 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-07-17 20:10:08,546 | INFO | httpx | HTTP Request: GET https://huggingface.co/api/models/facebook/mbart-large-50-many-to-many-mmt "HTTP/1.1 200 OK"
+2026-07-17 20:10:08,823 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 20:10:09,079 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/config.json "HTTP/1.1 200 OK"
+2026-07-17 20:10:09,490 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-07-17 20:10:10,496 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-17 20:10:10,717 | INFO | httpx | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/mbart-large-50-many-to-many-mmt/e30b6cb8eb0d43a0b73cab73c7676b9863223a30/generation_config.json "HTTP/1.1 200 OK"
+2026-07-17 20:10:10,777 | WARNING | werkzeug |  * Debugger is active!
+2026-07-17 20:10:10,791 | INFO | werkzeug |  * Debugger PIN: 115-207-918
+2026-07-17 20:12:02,416 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:02] "GET / HTTP/1.1" 200 -
+2026-07-17 20:12:03,696 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:03] "[36mGET /static/play.png HTTP/1.1[0m" 304 -
+2026-07-17 20:12:03,725 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:03] "[36mGET /static/play-and-pause-button.png HTTP/1.1[0m" 304 -
+2026-07-17 20:12:03,729 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:03] "[36mGET /static/stop-button.png HTTP/1.1[0m" 304 -
+2026-07-17 20:12:03,744 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:03] "[36mGET /static/rahnema_college.png HTTP/1.1[0m" 304 -
+2026-07-17 20:12:03,749 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:03] "[36mGET /static/pause.png HTTP/1.1[0m" 304 -
+2026-07-17 20:12:03,761 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:03] "[36mGET /static/plus.png HTTP/1.1[0m" 304 -
+2026-07-17 20:12:22,420 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:22] "POST /upload_file HTTP/1.1" 200 -
+2026-07-17 20:12:26,517 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:26] "GET /translate_line/bart HTTP/1.1" 200 -
+2026-07-17 20:12:42,286 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:42] "POST /upload_file HTTP/1.1" 200 -
+2026-07-17 20:12:45,954 | ERROR | translation-platform | HTTP Error: 401 Client Error:  for url: https://api.metisai.ir/api/v1/chat/openai_chat_completion/completions
+2026-07-17 20:12:46,151 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:46] "GET /translate_line/llm HTTP/1.1" 200 -
+2026-07-17 20:12:55,757 | ERROR | translation-platform | HTTP Error: 401 Client Error:  for url: https://api.metisai.ir/api/v1/chat/openai_chat_completion/completions
+2026-07-17 20:12:55,974 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:55] "[35m[1mPOST /translate_text/llm HTTP/1.1[0m" 500 -
+2026-07-17 20:12:59,815 | INFO | werkzeug | 127.0.0.1 - - [17/Jul/2026 20:12:59] "POST /translate_text/bart HTTP/1.1" 200 -
