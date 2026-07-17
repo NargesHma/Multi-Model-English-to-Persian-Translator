@@ -4,6 +4,9 @@
 AI-powered subtitle translation system using multiple translation engines.
 
 
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/a32797a7-cd8d-44d1-81cc-d4bbdc76a04a" />
+
+
 ## Features
 
 - Upload SRT subtitle files
