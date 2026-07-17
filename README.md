@@ -4,7 +4,8 @@
 AI-powered subtitle translation system using multiple translation engines.
 
 
-<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/a32797a7-cd8d-44d1-81cc-d4bbdc76a04a" />
+<img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/cac94e4a-a338-443c-b2f7-b6e16c062475" />
+
 
 
 ## Features
